@@ -1,0 +1,22 @@
+{
+  "name": "cloudcontactfunction",
+  "version": "1.0.0",
+  "description": "Contact mail micro service for Google Cloud Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonakss/CloudContactFunction.git"
+  },
+  "author": "Jonathan Correa Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonakss/CloudContactFunction/issues"
+  },
+  "homepage": "https://github.com/Jonakss/CloudContactFunction#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2"
+  }
+}
